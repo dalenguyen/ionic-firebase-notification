@@ -1,0 +1,8 @@
+{
+  "name": "firebase-push",
+  "app_id": "973a60d4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
